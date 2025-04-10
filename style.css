@@ -1,27 +1,13 @@
-p{ text-align: right;
-    color: blueviolet;
-}
-h1{
-    color: aqua;
-}
-h2{
-    color: blue;
-}
-h3{
+
+.color{
     color: brown;
 }
-h4{
+.big:hover{
     color: chartreuse;
+    font-size: 25px
 }
-h5{
-    color: darkgoldenrod;
-}
-h6{
-    color: red;
-}
-#titolo5{
-    background-color: cadetblue;
-}
-.container{
-    font-size: 30px;
+.top:hover::first-letter{
+    color: violet;
+    font-style: oblique;
+    font-size: 30px
 }
