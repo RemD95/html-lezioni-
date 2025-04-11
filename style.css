@@ -22,6 +22,9 @@ a:hover {
     color: fuchsia;
     text-align: center;
 }
-:last-child {
+li:last-child {
     color: blue;
+}
+.redp {
+    color:red
 }
