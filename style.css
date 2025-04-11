@@ -22,3 +22,6 @@ a:hover {
     color: fuchsia;
     text-align: center;
 }
+:last-child {
+    color: blue;
+}
