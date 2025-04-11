@@ -18,3 +18,7 @@ h1, h2, article {
     text-align: center;
     color: chartreuse;
 }
+a:hover {
+    color: fuchsia;
+    text-align: center;
+}
