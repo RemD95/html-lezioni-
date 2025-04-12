@@ -31,3 +31,12 @@ color:rgba(255, 0, 0, 0.7);
 .namedco {
     color: slateblue;
 } 
+p:last-of-type {
+    color: black;
+}
+#ipsum {
+    color: darkgreen;
+}
+.lorem{
+    color: grey;
+}
