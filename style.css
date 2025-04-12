@@ -22,7 +22,7 @@ a:hover {
     color: fuchsia;
     text-align: center;
 }
-li:last-child {
+.unlione li:last-child {
     color: blue;
 }
 .redp {
@@ -39,4 +39,8 @@ p:last-of-type {
 }
 .lorem{
     color: grey;
+}
+.hannov{
+    color: crimson;
+    text-align: right;
 }
